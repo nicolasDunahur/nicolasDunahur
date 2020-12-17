@@ -7,10 +7,11 @@ Estudiante de sistemas con muchas ganas de empezar a trabajar como desarrollador
  - [CV](https://drive.google.com/file/d/1u2HcJnAuf6ifnXbGelcW-4ko7k0F8QKh/view?usp=sharing)
  - profesionalnicolasdiaz@gmail.com
  
-### Skills
-[!Python](https://img.shields.io/badge/<PYTHON>-<MESSAGE>-<COLOR>)
+
 <!--
 **nicolasDunahur/nicolasDunahur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+### Skills
+[!Python](https://img.shields.io/badge/PYTHON-<MESSAGE>-<COLOR>)
+https://shields.io/
 -->
