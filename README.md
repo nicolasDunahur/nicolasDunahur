@@ -4,7 +4,7 @@ Estudiante de sistemas con muchas ganas de empezar a trabajar como desarrollador
 
 ### Contacto
 
- - [CV] (https://drive.google.com/file/d/1u2HcJnAuf6ifnXbGelcW-4ko7k0F8QKh/view?usp=sharing)
+ - [CV](https://drive.google.com/file/d/1u2HcJnAuf6ifnXbGelcW-4ko7k0F8QKh/view?usp=sharing)
 <!--
 **nicolasDunahur/nicolasDunahur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
