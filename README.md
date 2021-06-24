@@ -1,6 +1,6 @@
 ### Hola! 👋 Un poco sobre mi...
 
-Estudiante de sistemas con muchas ganas de empezar a trabajar como desarrollador. Me interesa todo lo relacionado con nuevas tecnologías, principalmente el desarrollo Web y blockchain. Me gustaría poder combinar mis dos pasiones la economía y programación. Busco una empresa donde poder crecer y desarrollarme profesionalmente.
+Estudiante de sistemas con muchas ganas de crecer en la industria. Me interesa todo lo relacionado con las nuevas tecnologías y la creación de proyectos innovadores. Me gustaría poder combinar mis dos pasiones: la economía y la programación.
 
 ### Contacto
 
