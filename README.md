@@ -4,7 +4,7 @@ Estudiante de sistemas con muchas ganas de empezar a trabajar como desarrollador
 
 ### Contacto
 
- - [CV](https://drive.google.com/file/d/1u2HcJnAuf6ifnXbGelcW-4ko7k0F8QKh/view?usp=sharing)
+ - [LinkeiIn](https://www.linkedin.com/in/profesional-nicolas-diaz/)
  - profesionalnicolasdiaz@gmail.com
  
 
