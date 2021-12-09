@@ -6,6 +6,12 @@ Estudiante de sistemas con muchas ganas de crecer en la industria. Me interesa t
 
  - [LinkeiIn](https://www.linkedin.com/in/profesional-nicolas-diaz/)
  - profesionalnicolasdiaz@gmail.com
+ _____________________________________________________________
+ 
+ TP GRUPAL MATERIA DESARROLLO DE APLICACIONES:
+ 
+ https://github.com/ControlGastosSubsidios
+ 
  
 
 <!--
