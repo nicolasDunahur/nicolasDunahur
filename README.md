@@ -4,7 +4,7 @@ Graduado de sistemas con muchas ganas de crecer en la industria. Me interesa tod
 
 ### Contacto
 
- - [LinkeiIn](https://www.linkedin.com/in/profesional-nicolas-diaz/)
+ - [LinkedIn](https://www.linkedin.com/in/profesional-nicolas-diaz/)
  - profesionalnicolasdiaz@gmail.com
  _____________________________________________________________
  
