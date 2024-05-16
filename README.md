@@ -1,6 +1,6 @@
 ### Hola! 👋 Un poco sobre mi...
 
-Graduado de de sistemas con muchas ganas de crecer en la industria. Me interesa todo lo relacionado con las nuevas tecnologías y la creación de proyectos innovadores. Me gustaría poder combinar mis dos pasiones: la economía y la programación.
+Graduado de sistemas con muchas ganas de crecer en la industria. Me interesa todo lo relacionado con las nuevas tecnologías y la creación de proyectos innovadores. Me gustaría poder combinar mis dos pasiones: la economía y la programación.
 
 ### Contacto
 
